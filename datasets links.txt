@@ -1,0 +1,3 @@
+https://www.kaggle.com/datasets/shivamb/netflix-shows/data
+
+https://www.kaggle.com/datasets/shivamb/amazon-prime-movies-and-tv-shows
